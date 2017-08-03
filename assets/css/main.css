@@ -89,6 +89,13 @@
 		border: 3px solid #4acaa8;
 	}
 
+	#screenurImg {
+		border: none;
+		margin-left: auto;
+		width: auto;
+		margin-right: auto;
+	}
+
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
